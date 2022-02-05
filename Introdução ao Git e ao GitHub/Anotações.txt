@@ -1,0 +1,6 @@
+git add * //prepara arquivos para commit
+
+git commit -m"commit inicial" // inicia o commit
+
+
+
