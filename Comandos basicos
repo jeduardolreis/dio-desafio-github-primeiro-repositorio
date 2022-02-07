@@ -1,0 +1,9 @@
+## Lista de comandos em Git/GitHub
+
+  git add * //inicializa o commit
+  git commit -m "commit inicial" //executando o commit
+  git status  // mostra o status do arquivo
+  git remote -v // consulta se subiu corretamente para o gitHub
+  git push origin master //comando para subir o arquivo ao github
+  
+    
